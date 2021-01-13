@@ -1,0 +1,21 @@
+body
+{ background-color :lightgrey;}
+
+.Alex {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+.drawing
+{
+    background-color : lightblue;
+    border: 12px double white;
+    padding: 8px;
+}
+
+.puzzles
+{
+    background-color : pink;
+    border: 12px double white;
+    padding: 8px;
+}
+
